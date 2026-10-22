@@ -51,5 +51,7 @@ This project contains two primary n8n workflow exports:
 ---
 
 ## 📌 Usage
-
 Once active, the main workflow exposes a webhook endpoint (`/webhook/shopmind`) capable of receiving customer JSON payloads containing queries, optional session IDs, and image URLs.
+
+## 🎬 Demo Video
+Watch the full project demonstration video on [Google Drive]https://drive.google.com/file/d/18c1d_Gm7dj3KD-zDjLPjH6_soF57IHyi/view?usp=sharing
